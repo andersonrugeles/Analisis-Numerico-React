@@ -1,0 +1,28 @@
+.Actividades__container {
+  margin: 100px 450px 40px 450px;
+}
+.form-label {
+  color: black;
+}
+.form {
+  width: 50vw;
+  height: 50vh;
+}
+.form-select {
+  width: 100%;
+  margin-top: 10px;
+  padding: 7px;
+  border: 1px solid rgb(100, 100, 100);
+  border-radius: 5px;
+  margin-bottom: 15px;
+  border-color: rgb(163, 161, 161);
+}
+.table {
+  width: 0;
+  max-width: 0%;
+  margin-bottom: 0px;
+}
+.table-i{
+  display: flex;
+  justify-content: center;
+}
